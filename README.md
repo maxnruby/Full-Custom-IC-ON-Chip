@@ -31,3 +31,21 @@ NOT <br>
 <img width="607" height="531" alt="image" src="https://github.com/user-attachments/assets/f9ed35bc-b0e1-4430-a83e-edf0dac29f68" />
 <br><br>
 
+2NOR<br>
+Schematic<br>
+<img width="729" height="786" alt="image" src="https://github.com/user-attachments/assets/f04341d4-2a0a-4549-b62c-781ea2fd9a35" />
+<br><br>
+Symbol<br>
+<img width="584" height="454" alt="image" src="https://github.com/user-attachments/assets/4c34491f-7142-4f90-ae04-f50cc60c006b" />
+<br><br>
+<img width="519" height="517" alt="image" src="https://github.com/user-attachments/assets/c7c651f1-f032-4cfb-951c-0b6f2e46f29f" />
+<br><br>
+<3.99><br>
+<img width="1002" height="832" alt="image" src="https://github.com/user-attachments/assets/ca21f4d1-5fcd-403a-9af3-66f701a7712f" />
+<br><br>
+
+
+
+
+
+
