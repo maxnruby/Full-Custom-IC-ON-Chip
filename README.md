@@ -12,10 +12,11 @@ Virtuoso<br>
 <br><br>
 
 
-시뮬2<br>
-<img width="1002" height="832" alt="image" src="https://github.com/user-attachments/assets/c0acce99-fe30-4fac-af55-259dce9566e7" />
-<br><br>
-시뮬3 <2.91><br>
+NOT <2.91><br>
 <img width="1002" height="832" alt="image" src="https://github.com/user-attachments/assets/1539fee6-9490-4f37-a7e0-b8a7e4a60e1c" />
 <br><br>
 
+2NAND<br>
+<img width="787" height="784" alt="image" src="https://github.com/user-attachments/assets/4912e877-9899-4d4b-9629-295ea36105a5" /><br><br>
+<img width="811" height="447" alt="image" src="https://github.com/user-attachments/assets/368c8d8a-95d7-427a-94a4-12d922da7729" /><br><br>
+<img width="1002" height="832" alt="image" src="https://github.com/user-attachments/assets/4ea57a66-2997-4e06-966a-b2fcf1a6ab58" />
