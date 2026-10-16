@@ -12,11 +12,22 @@ Virtuoso<br>
 <br><br>
 
 
-NOT <2.91><br>
+NOT <br>
 <img width="1002" height="832" alt="image" src="https://github.com/user-attachments/assets/1539fee6-9490-4f37-a7e0-b8a7e4a60e1c" />
 <br><br>
+<img width="493" height="348" alt="image" src="https://github.com/user-attachments/assets/cb7dbf7e-6275-4daa-ac66-2cdd5e903f68" />
+<br><br>
 
-2NAND<br>
+<2.91><br>
+<img width="457" height="531" alt="image" src="https://github.com/user-attachments/assets/fd8bea98-414b-4878-93a2-a8c94591e9ff" />
+<br><br>
+
+2NAND <br>
 <img width="787" height="784" alt="image" src="https://github.com/user-attachments/assets/4912e877-9899-4d4b-9629-295ea36105a5" /><br><br>
 <img width="811" height="447" alt="image" src="https://github.com/user-attachments/assets/368c8d8a-95d7-427a-94a4-12d922da7729" /><br><br>
 <img width="1002" height="832" alt="image" src="https://github.com/user-attachments/assets/4ea57a66-2997-4e06-966a-b2fcf1a6ab58" />
+<br><br>
+<2.53><br>
+<img width="607" height="531" alt="image" src="https://github.com/user-attachments/assets/f9ed35bc-b0e1-4430-a83e-edf0dac29f68" />
+<br><br>
+
